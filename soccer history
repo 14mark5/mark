@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Fun Input</title>
+  <style>
+  /* css */
+  html {
+  font-family: "Open Sans", sans-serif;
+  background: url(https://images.unsplash.com/photo-1508098682722-e99c43a406b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80);
+}
+
+body {
+  width: 100%;
+  max-width: 1259px;
+  margin: 0 auto;
+  background-color: white;
+  position: relative;
+}
+
+header {
+  height: 2319px;
+}
+
+h1 {
+  font-size: 50px;
+  line-height: 140px;
+  margin: 0 0 0 32.5px;
+}
+main {
+  background: #ccc;
+}
+article {
+  padding: 20px;
+}
+
+h2 {
+  margin-top: 0;
+}
+p {
+  line-height: 1;
+}
+iframe {
+  float: left;
+  margin: 0 20px 20px 0;
+  max-width: 100%;
+}
+
+  </style>
+  </head>
+ <body>
+  <--html -->
+  <header>
+  <h1>Soccer History</h1>
+ <main>
+  <article>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Zlz4QgpOSw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    
+    <h2>about us</h2>
+    <p> The history of soccer , the best goals  and the most iconic moments in foorball history</p>
+    
+    <h3>10. Greece Overccame Portugal in Euro 2004 Final</h3>
+    <p>Greece has had very little to shout about over the last decade.
+
+The country's Euro 2004 victory is a miracle of modern football, something that seems all the more unlikely when you consider Spain's international dominance since the moment Angelos Charisteas' goal brought tears to the eyes of Cristiano Ronaldo.
+
+If the striker is to be remembered in Homeric epithet, surely the "match-winning" Charisteas is most apt. He netted three important goals on Greece's odyssey to the top, underlining a bullish defiance about the squad's entire tournament.
+
+More impressively, Greece didn't win the competition by fluke. The nation racked up a group win against Portugal before eventually meeting the hosts in the final. Greece's schedule also saw them draw with Spain and rack up wins against France and the Czech Republic—both of which failed to score.
+
+Euro 2004's conclusion revealed one of the greatest underdog stories in sport. While Greece's international football prospects have been miserable since, for this brief moment in time, the country made huge news around the world for all the right reasons.</p>
+    <h3>9. Ronaldinho Applauded by Real Madrid Fans at the Bernabeu</h3>
+    <p>Lionel Messi has scored a hattrick against Real Madrid. Even so, there's something very special about Ronaldinho's performance at the Bernabeu in November 2005.
+
+This is mainly because the Brazilian's performance was nothing short of genius. His opposition included the likes of Iker Casillas, Roberto Carlos, David Beckham, Raul and Zinedine Zidane. None of these greats could get anywhere close to Ronaldinho's level on a day that saw him net two impressive goals and just about dominate every area of the pitch.
+
+The man's energy, speed and creativity was insane. So much so, the Bernabeu rose to its feet after he scored Barcelona's third and final goal.
+
+Could you ever imagine White Hart Lane standing up to applaud Thierry Henry? What about Fenerbahce fans giving former player Burak Yilmaz a rapturous reception after his brilliant season?
+
+Ronaldinho's performance transcended the boundaries of rivalry and received the respect it deserved. A truly magical sight in today's game.</p>
+    <h3>8. Antonin Panenka's Chipped Penalty
+</h3>
+    <p>It's the final of the 1976 European Championship.
+
+Czechoslovakia and West Germany draw 2-2, leading to the first penalty shootout in the major tournament's final. Antonin Panenka steps up to take the last kick. If he scores, Czechoslovakia are crowned champions of the continent.
+
+The pressure is immense. Many players would opt for power in such a situation. Nobody would blame Panenka for blasting the ball as hard as he can. Instead, the Bohemians 1905 legend chipped his effort straight down the middle of the goal.
+
+Thus, the Panenka Penalty was born. German goalkeeper Sepp Maier was left baffled after diving to Panenka's right—how did the midfielder hold his nerve?
+
+It's an iconic moment that is regularly implemented in modern football. While the likes of Andrea Pirlo and Sebastian Abreu have successfully pulled off the Panenka in major tournaments, players including Neymar, Robin van Persie and Cristiano Ronaldo have shown how embarrassing it is when the goalkeeper easily saves.</p>
+    <h3>7. Zinedine Zidane's Spectacular Champions League Final Volley</h3>
+    <p>Most players can barely use their weak foot. Zinedine Zidane isn't like most players.
+
+With a number of ridiculous goals, trophy wins and headbutts, the French wizard could have a list of his own. Seven years after his career ended, Zidane should be best remembered for a second of magic produced at Glasgow's Hampden Park in 2002.
+
+Roberto Carlos probably didn't expect much when his looping cross dropped into the path of his balding teammate.
+
+Zidane stood side on to the goal, his feet planted in the ground and eyes firmly focused on the ball. With a quick pivot and swing of his unfavoured left boot, the former Juventus player volleyed Real Madrid into a stunning Champions League final lead.
+
+Zidane's goal saw Madrid overcome an impressive Bayer Leverkusen side on Europe's biggest club stage. His finish was a small glimpse of a man who defined a generation with his ridiculous array of skills, and offered a snippet of the kind of quality that saw Zidane eventually appear alongside Pele and Diego Maradona in a Louis Vutton advert.
+
+Surely that is the pinnacle of anyone's career.</p>
+    <h3>6. North Korea Dump Italy out of World Cup 1966</h3>
+    <p>As an Englishman, it's difficult to mention World Cup 1966 without discussing the home nation's triumph. Geoff Hurst's contested final goal is perhaps deserving of a place on this list—especially for my countryman. The fact is, nobody outside the Queen's walls care.
+
+North Korea performed their own miracle in '66. Traveling to England without a whimper of hope, the Asian outfit shocked the world with a 1-0 win over an Italian superforce.
+
+As noted on The New York Times, this was an extremely different North Korea to what we see today. These players entered the pitch with personality and charisma, as summed up in the BBC's The Game of Their Lives documentary.
+
+Political tensions surrounding contemporary North Korea shouldn't tarnish a remarkable achievement that stands up with the greatest in football history.
+
+Sure, we've witnessed players crying on the pitch, reports of torture after an early World Cup exit and Kim Jong-il's staged brigade of volunteer fans, but for 90 minutes in 1966, the North Korean national team was nothing short of sensational.</p>
+    <h3>5. Ryan Giggs Tears Arsenal's Defence Apart</h3>
+    <p>Look at those curly locks. Revel in his hairy man chest.
+
+Manchester United's treble of 1999 might be more famous for the Red Devils' outrageous Champions League comeback, but Sir Alex Ferguson's men wouldn't have wrapped up three trophies if it wasn't for a certain Welsh winger's brilliance in the F.A. Cup semi-final with Arsenal.
+
+This is the kind of goal where my words are rendered useless.
+
+Shortly after Peter Schmeichel saved Dennis Bergkamp's penalty, Giggs picked possession up behind the halfway line. His explosive pace and tight control took him beyond multiple challenges before he blasted a shot into the roof of the net.
+
+Martin Tyler's shriek says it all.</p>
+    <h3>4. Lilian Thuram's Double Sends France to World Cup Glory</h3>
+    <p>Lilian Thuram racked up 142 international caps for France. He scored just two goals.
+
+What's remarkable about these goals? Both of them came in the 1998 World Cup semi-final against Croatia. The former Juventus hero couldn't have picked a better moment to pull his country out of the lurch, especially when the major tournament was being held on home turf.
+
+Both goals are of a remarkable quality. Thuram's man-of-ice reaction when the second goes in is legendary—especially when most players would be screaming with joy.
+
+France won the match 2-1 and went on to capture their first World Cup trophy. Thuram's performance deserves to be remembered as the moment French football stepped up to deliver on the aspirations of a previously under performing nation.
+
+His heroics went a long way to get that coveted star on Les Bleus' kit, too.</p>
+    <h3>3. Liverpool's Remarkable Comeback Secures Champions League Victory
+</h3>
+    <p>Liverpool has an astonishing history. Although the Merseyside club's prospects have faded of late, it was only eight years ago that the famous Reds staged one of the greatest comebacks in football.
+
+Trailing Milan 3-0 at half-time in the 2005 Champions League final, all hope was lost for the side from Anfield.
+
+Rafa Benitez decided to sacrifice Steve Finnan at the interval, bringing Dietmar Hamman into a midfield that could now compete with Milan's incisive attacking threat.
+
+Steven Gerrard's headed goal gave Liverpool distance hope. Vladimir Smicer added a second to get nerves jingling. Minutes after, Liverpool received a penalty after Gennaro Gattuso fouled Gerrard in the area. Xabi Alonso stepped up. Dida saved.
+
+Luckily, Alonso remained in the box to tuck away an unlikely equaliser. He levelled the match, sending it to extra time that was also full of drama.
+
+Jerzy Dudek wasn't always revered by Liverpool fans, but he made a truly stunning double save to keep his side in the tie. Andriy Shevchenko failed to secure victory after Dudek thwarted two excellent opportunities for glory.
+
+Shortly after, the Polish keeper stood up to crush Shevchenko's dreams once more in the penalty shootout.
+
+He got a left hand to the striker's decisive effort, thrusting Liverpool towards the mantel of European champions for the fifth time.</p>
+    <h3>2. Sergio Aguero Delivers Manchester City's First Premier League Title</h3>
+    <p>This one should be fresh in the memory for any Premier League fan.
+
+Martin Tyler has already made an appearance in this list. For Manchester City followers, the Sky Sports commentator's "Agueroooo screech" will bring nothing but joy. For Manchester United fans, that sinking feeling might reappear.
+
+Sergio Aguero's last minute winner on the last day of the 2011-12 season was simply incredible. United—who believed they had just won the league with three points at Sunderland—watched in horror as the Argentinian forward smashed the ball into the QPR net.
+
+Sheikh Mansour's mega-rich team received their first title. City's era of potential dominance began with the loudest possible bang.
+
+No matter which allegiance you follow, all of English football celebrated a key victory that day: Joey Barton was shipped out to Marseille following his red card antics during the match.</p>
+    <h3>1. Diego Maradona's Hand of God</h3>
+    <p>Imagine being present for Diego Maradona's "Hand of God" moment at the 1986 World Cup.
+
+The Argentina legend scored hordes of unbelievable goals throughout his career. Hell, he bagged goal of the century four minutes after poking the ball beyond Peter Shilton with his little pinky.
+
+Maradona's brilliance that day almost deserved a little divine intervention.
+
+Argentina went on to secure their second World Cup title, but it's Maradona's quick use of the hand that still has many people talking. As far as memorable moments go, there isn't a more famous example of a split-second decision imprinting itself into the history of football.
+
+Which moments would you love to have seen in the flesh? Let me know in the comments section below and be sure to follow me on Twitter</p>
+ 
+ </body>
+ <script>
+ 
+ </script>
+  
+</html>
